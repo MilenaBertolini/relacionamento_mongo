@@ -1,0 +1,5 @@
+spring:
+    data:
+        mongodb:
+            uri: mongodb+srv://milenabertolini:N4UnTwICaVeYggsN@cluster0.ytnny.mongodb.net/
+            database: relacionamentos
